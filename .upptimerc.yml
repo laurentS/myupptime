@@ -3,12 +3,25 @@ owner: laurentS # Your GitHub organization or username, where this repository li
 repo: myupptime # The name of this repository
 
 sites:
+  ###### MaDada ######
   - name: MaDada frontpage
     url: https://madada.fr
   - name: MaDada blog
     url: https://blog.madada.fr
+  - name: MaDada authorities list
+    url: https://madada.fr/body/list/all
+  - name: MaDada user page
+    url: https://madada.fr/user/laurent_savaete
+  ###### MapSwipe ######
   - name: MapSwipe public page
     url: https://mapswipe.org
+  ###### OpenFinData ######
+  - name: OpenFinData landing page
+    url: https://openfindata.io
+  - name: OpenFinData API docs
+    url: https://api.openfindata.io/docs
+  - name: OpenFinData public summary example
+    url: https://api.openfindata.io/api/v1/funds/summary_public/US47103E1221
 
 
 status-website:
