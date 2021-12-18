@@ -130,17 +130,19 @@
     "url": "https://api.openfindata.io/api/v1/funds/summary_public/US47103E1221",
     "icon": "https://favicons.githubusercontent.com/api.openfindata.io",
     "slug": "open-fin-data-public-summary-example",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 907,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
-    "dailyMinutesDown": {}
+    "time": 730,
+    "timeDay": 556,
+    "timeWeek": 730,
+    "timeMonth": 730,
+    "timeYear": 730,
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   }
 ]
