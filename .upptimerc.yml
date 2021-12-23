@@ -8,6 +8,8 @@ sites:
     url: https://madada.fr
   - name: MaDada blog
     url: https://blog.madada.fr
+  - name: MaDada blog feed
+    url: https://madada-team.gitlab.io/site/feed.xml?lang=fr-FR
   - name: MaDada authorities list
     url: https://madada.fr/body/list/all
   - name: MaDada user page
