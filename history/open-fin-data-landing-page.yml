@@ -1,7 +1,7 @@
 url: https://openfindata.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-23T01:43:52.560Z
+status: up
+code: 200
+responseTime: 7259
+lastUpdated: 2022-01-23T02:40:47.319Z
 startTime: Wed Dec 15 2021 02:27:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
