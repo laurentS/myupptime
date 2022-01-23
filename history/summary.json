@@ -22,10 +22,10 @@
     "url": "https://blog.madada.fr",
     "icon": "https://favicons.githubusercontent.com/blog.madada.fr",
     "slug": "ma-dada-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 615,
@@ -34,6 +34,7 @@
     "timeMonth": 611,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2022-01-23": 1,
       "2022-01-14": 16
     }
   },
@@ -42,10 +43,10 @@
     "url": "https://madada-team.gitlab.io/site/feed.xml?lang=fr-FR",
     "icon": "https://favicons.githubusercontent.com/madada-team.gitlab.io",
     "slug": "ma-dada-blog-feed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 695,
@@ -54,6 +55,7 @@
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2022-01-23": 1,
       "2021-12-23": 19
     }
   },
@@ -116,9 +118,9 @@
     "url": "https://openfindata.io",
     "icon": "https://favicons.githubusercontent.com/openfindata.io",
     "slug": "open-fin-data-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +129,9 @@
     "timeWeek": 551,
     "timeMonth": 447,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-23": 0
+    }
   },
   {
     "name": "OpenFinData API docs",
