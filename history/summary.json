@@ -13,7 +13,7 @@
     "time": 997,
     "timeDay": 635,
     "timeWeek": 936,
-    "timeMonth": 891,
+    "timeMonth": 870,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2022-02-25": 197,
@@ -29,12 +29,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 693,
     "timeDay": 501,
     "timeWeek": 546,
-    "timeMonth": 629,
+    "timeMonth": 639,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2022-01-31": 16,
@@ -48,18 +48,17 @@
     "icon": "https://favicons.githubusercontent.com/madada-team.gitlab.io",
     "slug": "ma-dada-blog-feed",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 788,
     "timeDay": 1662,
     "timeWeek": 858,
-    "timeMonth": 638,
+    "timeMonth": 675,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-02-28": 7,
       "2022-01-31": 15,
       "2022-01-23": 68,
       "2021-12-23": 19
@@ -79,7 +78,7 @@
     "time": 1598,
     "timeDay": 1684,
     "timeWeek": 1693,
-    "timeMonth": 1542,
+    "timeMonth": 1541,
     "timeYear": 1598,
     "dailyMinutesDown": {
       "2022-02-25": 197,
@@ -100,7 +99,7 @@
     "time": 161,
     "timeDay": 130,
     "timeWeek": 151,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2022-02-25": 197,
@@ -121,7 +120,7 @@
     "time": 193,
     "timeDay": 68,
     "timeWeek": 119,
-    "timeMonth": 160,
+    "timeMonth": 151,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -139,7 +138,7 @@
     "time": 635,
     "timeDay": 267,
     "timeWeek": 601,
-    "timeMonth": 708,
+    "timeMonth": 536,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2022-01-23": 57
@@ -159,7 +158,7 @@
     "time": 543,
     "timeDay": 461,
     "timeWeek": 473,
-    "timeMonth": 532,
+    "timeMonth": 529,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2022-01-24": 60,
@@ -182,7 +181,7 @@
     "time": 648,
     "timeDay": 511,
     "timeWeek": 532,
-    "timeMonth": 608,
+    "timeMonth": 618,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2022-02-28": 19,
