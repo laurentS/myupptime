@@ -1,7 +1,7 @@
 url: https://api.openfindata.io/api/v1/funds/summary_public/US47103E1221
 status: up
 code: 200
-responseTime: 728
-lastUpdated: 2022-03-06T23:04:36.516Z
+responseTime: 563
+lastUpdated: 2022-03-07T23:01:56.526Z
 startTime: Wed Dec 15 2021 02:27:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
