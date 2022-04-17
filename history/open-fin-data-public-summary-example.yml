@@ -1,7 +1,7 @@
 url: https://api.openfindata.io/api/v1/funds/summary_public/US47103E1221
-status: down
-code: 500
-responseTime: 141
-lastUpdated: 2022-04-17T00:39:40.297Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2022-04-17T01:07:40.705Z
 startTime: Wed Dec 15 2021 02:27:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
