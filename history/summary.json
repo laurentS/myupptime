@@ -4,9 +4,9 @@
     "url": "https://madada.fr",
     "icon": "https://favicons.githubusercontent.com/madada.fr",
     "slug": "ma-dada-frontpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 1171,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-02-25": 197,
       "2022-02-19": 25
     }
@@ -70,9 +71,9 @@
     "url": "https://madada.fr/body/list/all",
     "icon": "https://favicons.githubusercontent.com/madada.fr",
     "slug": "ma-dada-authorities-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -82,6 +83,7 @@
     "timeMonth": 1488,
     "timeYear": 1551,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-02-25": 197,
       "2022-02-19": 25
     }
@@ -91,9 +93,9 @@
     "url": "https://madada.fr/user/laurent_savaete",
     "icon": "https://favicons.githubusercontent.com/madada.fr",
     "slug": "ma-dada-user-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -103,6 +105,7 @@
     "timeMonth": 163,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-02-25": 197,
       "2022-02-19": 25
     }
@@ -131,18 +134,18 @@
     "icon": "https://favicons.githubusercontent.com/openfindata.io",
     "slug": "open-fin-data-landing-page",
     "status": "down",
-    "uptime": "74.00%",
+    "uptime": "73.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.00%",
+    "uptimeYear": "73.84%",
     "time": 577,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-29": 9,
+      "2022-05-29": 549,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -227,7 +230,7 @@
     "time": 628,
     "timeDay": 745,
     "timeWeek": 614,
-    "timeMonth": 588,
+    "timeMonth": 597,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2022-05-17": 27,
